@@ -49,3 +49,7 @@ I revived a completely unusable ThinClient PC with HyperInfinity OS. It couldnâ€
 ---
 
 Thanks for visiting my profile! ðŸ˜Š Feel free to explore, or just drop a hello.
+
+---
+
+*Official ID - SVSG-CORE-R01-PUB
