@@ -20,11 +20,6 @@ Welcome to my GitHub profile! I'm a 15-year-old enthusiastic beginner developer 
 
 ---
 
-## 📈 GitHub Stats
-![Shivansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maybe-shivanshgupta&show_icons=true&theme=radical)
-
----
-
 ## 👨‍💻 Latest Projects
 
 - **🌀 HyperInfinity OS**  
